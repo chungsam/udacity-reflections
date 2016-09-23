@@ -1,0 +1,4 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- The staging area allows you to be specific about the files that you've changed that you want to commit
+- It allows you to separate the commits according to the logical changes that you've made
