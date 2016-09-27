@@ -1,1 +1,4 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+- If you have more than one machine that you develop on
+- If you're collaborating with multiple people
+- To make sure you have a "backup" in the cloud in case something happens to your computer
