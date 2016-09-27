@@ -11,3 +11,10 @@ Describe the differences between forks, clones, and branches. When would you use
 - A fork is when you kind of clone a repository from someone else. You do this so that you can credit someone else by noting that it's been "forked from ___".
 - You clone a repository onto your own GitHub repo if you want to make a local copy of the repo and commit changes to it.
 - You create branches if you want to explore and add on features to the code while leaving the stable master branch intact. Once you're satisfied with the changes, you can merge it with the master and sync the changes.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- If you don't have internet access, then you can know what the most recent state of the repo was before you went offline. You can then find out what changes have been made while you were offline when you perform 'git pull origin master' later
+
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+- One way to collaborate is through some document-storage app like Dropbox, but version control and merging would be really hard
+- Just use Git!
