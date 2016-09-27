@@ -7,3 +7,7 @@ Why might you want to always pull changes manually rather than having Git automa
 - Sometimes you may working on something you haven't quite finished yet, which doesn't add up to be a full single "logical change"
 - You can have full control over which changes get "grouped" into a particular commit, and which files should be part of that commit
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- A fork is when you kind of clone a repository from someone else. You do this so that you can credit someone else by noting that it's been "forked from ___".
+- You clone a repository onto your own GitHub repo if you want to make a local copy of the repo and commit changes to it.
+- You create branches if you want to explore and add on features to the code while leaving the stable master branch intact. Once you're satisfied with the changes, you can merge it with the master and sync the changes.
