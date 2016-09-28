@@ -18,3 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 - One way to collaborate is through some document-storage app like Dropbox, but version control and merging would be really hard
 - Just use Git!
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- Working directly on master is much simpler, and might work for smaller projects
+- Working on a separate branch allows you to be more experimental. Also, on larger projects, it might be much better to work on a separate branch and collaborate through pull requests, so that others can review and give feedback on your work
